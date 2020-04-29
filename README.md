@@ -9,9 +9,9 @@ We provide data and files used in paper as follows:
 
 | File List | Brief Description |
 | ---- |  ---- |  
-| ToPNN-dataset/train/ | sequential data for original training data <br> (i.e., class, method, code topics, code summary| 
-| ToPNN-dataset/valid/ | sequential data for original validation data <br> (i.e., class, method, code topics, code summary| 
-| ToPNN-dataset/test/ | sequential data for original test data <br> (i.e., class, method, code topics, code summary| 
+| ToPNN-dataset/train/ | sequential data for original training data <br> (i.e., class, method, code topics, code summary) | 
+| ToPNN-dataset/valid/ | sequential data for original validation data <br> (i.e., class, method, code topics, code summary) | 
+| ToPNN-dataset/test/ | sequential data for original test data <br> (i.e., class, method, code topics, code summary) | 
 
 #### The Packed Data for Dataset:
 
